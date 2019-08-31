@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "gulp serve",
-    "build": "gulp"
+    "build": "gulp",
+    "lint": "./node_modules/.bin/eslint src"
   },
   "author": "",
   "license": "ISC",
