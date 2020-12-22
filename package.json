@@ -30,7 +30,7 @@
     "gulp-newer": "^1.4.0",
     "gulp-nodemon": "^2.4.2",
     "gulp-sourcemaps": "^2.6.5",
-    "node-notifier": "^5.4.3",
+    "node-notifier": "^8.0.1",
     "path": "^0.12.7"
   }
 }
